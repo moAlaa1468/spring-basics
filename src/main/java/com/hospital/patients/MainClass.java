@@ -44,6 +44,7 @@ public class MainClass {
      *-------------------------------------
      * video 48 :
      * Lazy Initialization   [ عملي الدنيا واضحة ]
+     * in the application.properities add This line spring.main.lazy-initialization=true
      * when you make four class implements an interface
      * after AutoWired the parent or AutoWired the interface The Four Constructors are initialized
      * But lazy will stop the child you specify from being initialized Unless you do that
